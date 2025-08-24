@@ -41,11 +41,11 @@ It demonstrates **dynamic memory allocation** for parking slots and **overflow h
 - TS02CD5678 | Owner: BHARATH | Entry: 2025-08-22 17:50:33
 - TS03EF9999 | Owner: CHARAN | Entry: 2025-08-22 17:50:33
 
-🚗 Car exited: KA02CD5678 (Bob)
+🚗 Car exited: TS02CD5678 (Bob)
 ❌ Car with plate TS05XY1111 not found.
 
 🅿️ Currently Parked Cars (2/3):
-- TS01AB1234 | Owner: Alice | Entry: 2025-08-22 17:50:33
-- TS03EF9999 | Owner: Charlie | Entry: 2025-08-22 17:50:33
+- TS01AB1234 | Owner: ANIL | Entry: 2025-08-22 17:50:33
+- TS03EF9999 | Owner: BHARATH | Entry: 2025-08-22 17:50:33
 
 
